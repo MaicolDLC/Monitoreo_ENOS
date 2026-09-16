@@ -39,3 +39,30 @@ install.packages(c(
   "dplyr", "ggplot2", "metR", "MBA",
   "shinycssloaders", "colourpicker", "rsconnect"
 ))
+```
+
+## 💻 Uso local 
+1. Clona el repositorio:
+git clone https://github.com/MaicolDLC/Monitoreo_ENOS.git
+cd Monitoreo_ENOS
+
+3. Abre RStudio en esa carpeta y ejecuta:
+shiny::runApp()
+
+5. Se abrirá en http://127.0.0.1:XXXX
+## 📂 Estructura del proyecto
+Monitoreo_ENOS/
+├── app.R          # App principal (UI + Server)
+├── estilo.R       # Tema bslib, paleta de colores, CSS
+├── graficas.R     # Procesamiento NetCDF y funciones de gráficas
+├── README.md
+└── LICENSE
+
+## 📖 Fuente de datos
+Los datos se descargan en tiempo real desde el servidor público del Pacific Marine Environmental Laboratory (PMEL) de la NOAA:
+
+https://www.pmel.noaa.gov/tao/taoweb/disdel_data/cdf/sites/daily/
+
+## 👤 Autor
+Michael DLC — @MaicolDLC
+contacto: michael.dlc.lr@gmail.com | 20180176@lamolina.edu.pe 
