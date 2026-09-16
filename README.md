@@ -51,12 +51,14 @@ shiny::runApp()
 
 5. Se abrirá en http://127.0.0.1:XXXX
 ## 📂 Estructura del proyecto
+```r
 Monitoreo_ENOS/
 ├── app.R          # App principal (UI + Server)
 ├── estilo.R       # Tema bslib, paleta de colores, CSS
 ├── graficas.R     # Procesamiento NetCDF y funciones de gráficas
 ├── README.md
 └── LICENSE
+```
 
 ## 📖 Fuente de datos
 Los datos se descargan en tiempo real desde el servidor público del Pacific Marine Environmental Laboratory (PMEL) de la NOAA:
