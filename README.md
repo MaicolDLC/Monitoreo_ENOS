@@ -69,5 +69,6 @@ Los datos se descargan en tiempo real desde el servidor público del Pacific Mar
 https://www.pmel.noaa.gov/tao/taoweb/disdel_data/cdf/sites/daily/
 
 ## 👤 Autor
-Michael DLC — @MaicolDLC
-contacto: michael.dlc.lr@gmail.com | 20180176@lamolina.edu.pe 
+* Michael DLC — @MaicolDLC
+
+* Contacto: michael.dlc.lr@gmail.com | 20180176@lamolina.edu.pe 
