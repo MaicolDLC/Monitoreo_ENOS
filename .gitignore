@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+tao_cache/
+*.cdf
+*.png
+!www/preview.png

@@ -1,0 +1,10 @@
+name: dashboard_enos
+title:
+username: michaeldlc
+account: michaeldlc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17932645
+bundleId: 12564904
+url: https://michaeldlc.shinyapps.io/dashboard_enos/
+version: 1
