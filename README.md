@@ -42,14 +42,17 @@ install.packages(c(
 ```
 
 ## 💻 Uso local 
+```r
 1. Clona el repositorio:
 git clone https://github.com/MaicolDLC/Monitoreo_ENOS.git
 cd Monitoreo_ENOS
 
-3. Abre RStudio en esa carpeta y ejecuta:
+2. Abre RStudio en esa carpeta y ejecuta:
 shiny::runApp()
 
-5. Se abrirá en http://127.0.0.1:XXXX
+3. Se abrirá en http://127.0.0.1:XXXX
+```
+
 ## 📂 Estructura del proyecto
 ```r
 Monitoreo_ENOS/
